@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Avishek Banerjee
 - 👀 I’m interested in Full Stack Technologies and Cloud Architectures
 - 🌱 I’m currently learning Wordpress and PHP to create a fun website for my dogs
+- 💎 I'm also learning Ruby on Rails to work on my freelance project
 - 💞️ I’m looking to collaborate on all things Node.js and Cloud
 - 📫 You can reach me at abanerjee.consulting@gmail.com
 
